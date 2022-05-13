@@ -1,0 +1,18 @@
+.sidebarFriend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.sidebarFriendImg{
+    height: 32px;
+    width: 32px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.sidebarFriendName{
+  text-transform: capitalize;
+} 
